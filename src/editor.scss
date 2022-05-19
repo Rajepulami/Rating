@@ -1,0 +1,12 @@
+.unit-btn-group {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.unit-btn-group .unit-btn {
+	box-shadow: none;
+}
+
+.components-button-group .unit-btn.is-primary {
+	box-shadow: none;
+}

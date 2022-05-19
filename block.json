@@ -1,0 +1,11 @@
+{
+  "name": "simple-block/rating",
+  "title": "Rating",
+  "category": "widgets",
+  "icon": "star-filled",
+  "description": "Renders star rating in gutenberg editor block",
+  "textdomain": "simple-block",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "style": "file:./build/style-index.css"
+}
